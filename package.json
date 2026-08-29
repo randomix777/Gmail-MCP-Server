@@ -65,7 +65,7 @@
     "zod-to-json-schema": "^3.22.1"
   },
   "devDependencies": {
-    "@types/mime-types": "^2.1.4",
+    "@types/mime-types": "^3.0.1",
     "@types/node": "^20.10.5",
     "@types/nodemailer": "^6.4.17",
     "lockfile-lint": "^5.0.0",
